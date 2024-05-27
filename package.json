@@ -5,6 +5,7 @@
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "html-code-parser": "^0.0.5",
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest"
@@ -18,7 +19,8 @@
   },
   "main": "index.tsx",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "upgrade": "npm install html-code-parser@latest"
   },
   "browserslist": {
     "production": [
