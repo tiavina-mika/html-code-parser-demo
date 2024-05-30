@@ -1,6 +1,6 @@
-## CodeSandbox tiptap-parserr demo
+## CodeSandbox tiptap-parser demo
 
-A repo to see and test each `html-code-parser` features
+A repo to see and test each `tiptap-parser` features
 <br />
 [GitHub](https://github.com/tiavina-mika/tiptap-parser)
 <br />
