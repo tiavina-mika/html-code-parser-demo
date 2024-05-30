@@ -5,7 +5,7 @@
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "html-code-parser": "^0.0.5",
+    "tiptap-parser": "^0.0.3",
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest"
