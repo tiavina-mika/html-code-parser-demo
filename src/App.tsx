@@ -1,3 +1,4 @@
+import React from "react";
 import { TiptapParser } from "tiptap-parser";
 
 const html = `
