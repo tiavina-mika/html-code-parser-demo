@@ -5,9 +5,9 @@
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "tiptap-parser": "^0.0.5",
     "react": "latest",
     "react-dom": "latest",
+    "tiptap-parser": "^0.0.8",
     "typescript": "latest"
   },
   "description": "https://github.com/mui/material-ui/blob/v5.14.2/docs/data/material/components/box/BoxSx.tsx",

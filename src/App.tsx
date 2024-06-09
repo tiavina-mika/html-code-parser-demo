@@ -1,5 +1,5 @@
 import React from "react";
-import { TiptapParser } from "tiptap-parser";
+import TiptapParser from "tiptap-parser";
 
 const html = `
 <h1>Here is an exemple of code</h1>
@@ -41,9 +41,11 @@ export default NotFound;
 
 const App = () => {
   return (
-    <TiptapParser language="tsx" classNames={{ h1ClassName: "h1" }}>
-      {html}
-    </TiptapParser>
+    <TiptapParser
+      content={html}
+      language="tsx"
+      classNames={{ h1ClassName: "h1" }}
+    />
   );
 };
 
